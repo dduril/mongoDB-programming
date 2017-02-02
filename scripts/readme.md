@@ -33,3 +33,9 @@
 	> db.cityinfo.find().limit(10)
 	> db.cityinfo.count()
 	> db.cityinfo.find({ pop: { $lt: 5000 }})
+
+#### Using a cursor
+
+	> cacitycursor = db.cityinfo.find({ $and: [{ state: "CA" }, { pop: { $gt: 10000, $lt: 100000 }}]})
+	> cacitycursor.count()
+	> cacitycursor.next()
