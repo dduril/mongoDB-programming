@@ -2,10 +2,10 @@
 
 ### Getting Started
 
-- **<a href="https://www.mongodb.com/">MongoDB</a>**
-- **<a href="https://docs.mongodb.com/manual/">MongoDB Docs</a>**
-- **<a href="https://www.python.org/">Python</a>**
-- **<a href="https://api.mongodb.com/python/current/">PyMongo</a>**
+- **[MongoDB](https://www.mongodb.com/)**
+- **[MongoDB Docs](https://docs.mongodb.com/manual/)**
+- **[Python](https://www.python.org/)**
+- **[PyMongo](https://api.mongodb.com/python/current/)**
 
 ### Python
 
